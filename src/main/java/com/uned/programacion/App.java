@@ -12,7 +12,7 @@ public class App
 {
     public static void main( String[] args ) throws Exception
     {
-    	//Inicio Proyecto
+    	//Entrada Principal del Proyecto
     	if(Funciones.numeroArgsCorrecto(args) 
     		&& Funciones.formatoCorrecto(args) 
     		&& Funciones.formatoCaracterNumerico(args)
