@@ -12,7 +12,7 @@ public class App
 {
     public static void main( String[] args ) throws Exception
     {
-   	
+    	System.out.print("EJERCICIOS CON ENTRADA DE ARGUMENTOS");
     	if(Funciones.numeroArgsCorrecto(args) 
     		&& Funciones.formatoCorrecto(args) 
     		&& Funciones.formatoCaracterNumerico(args)
