@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: marce
+Build-Jdk: 17.0.9
+Main-Class: com.uned.programacion.App
+Created-By: Maven Integration for Eclipse
+
