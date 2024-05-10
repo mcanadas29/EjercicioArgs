@@ -10,7 +10,7 @@ package com.uned.programacion;
  */
 public class App 
 {
-    public static void main( String[] args ) throws Exception
+    public static void main(String[] args ) throws Exception
     {
     	
     	if(Funciones.numeroArgsCorrecto(args) 
